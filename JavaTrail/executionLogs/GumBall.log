@@ -1,9 +1,0 @@
-Sep 08, 2021 9:17:46 PM gumball.Machine setInMoney
-SEVERE: Money Inserted: 	 Cash: 50	Coins: 50.0	Total Money: 100.0
-
-Sep 08, 2021 9:17:48 PM bootstrap.Driver main
-SEVERE: Change Returned: 90.25
-
-Sep 08, 2021 9:17:48 PM bootstrap.Driver main
-SEVERE: Transaction Successful 1 Snickers sold, remaining stock 8
-
